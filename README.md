@@ -1,6 +1,8 @@
-# NFT marketplace tutorial
+# ECH(0) NFT marketplace
 
-Check out the tutorial on [Figment Learn](https://learn.figment.io/tutorials/create-an-nft-marketplace-on-tezos)
+
+
+This was created using th the tutorial on [Figment Learn](https://learn.figment.io/tutorials/create-an-nft-marketplace-on-tezos)
 
 Smart contract - [SmartPy](https://smartpy.io/ide?cid=QmVGqtBwNNnxwdFPrnmZYnQGq5PEQGSGMQwrB53rMtuJfg&k=6c6a8bdfdaf5a2893854)
 
